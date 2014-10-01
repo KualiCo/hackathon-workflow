@@ -1,0 +1,106 @@
+[ {
+    "endDate" : 1323734400000,
+    "startDate" : 1314748800000,
+    "termCode" : "201108",
+    "termId" : "kuali.atp.2011Fall",
+    "termName" : "Fall 2011"
+  },
+  {
+    "endDate" : 1304985600000,
+    "startDate" : 1295827200000,
+    "termCode" : "201101",
+    "termId" : "kuali.atp.2011Spring",
+    "termName" : "Spring 2011"
+  },
+  {
+    "endDate" : 1310256000000,
+    "startDate" : 1306800000000,
+    "termCode" : "201105",
+    "termId" : "kuali.atp.2011Summer1",
+    "termName" : "Summer I 2011"
+  },
+  {
+    "endDate" : 1295740800000,
+    "startDate" : 1294012800000,
+    "termCode" : "201100",
+    "termId" : "kuali.atp.2011Winter",
+    "termName" : "Winter 2011"
+  },
+  {
+    "endDate" : 1353628800000,
+    "startDate" : 1346025600000,
+    "termCode" : "201221",
+    "termId" : "kuali.atp.2012CETerm1",
+    "termName" : "Continuing Education Term 1 2012"
+  },
+  {
+    "endDate" : 1355184000000,
+    "startDate" : 1346198400000,
+    "termCode" : "201208",
+    "termId" : "kuali.atp.2012Fall",
+    "termName" : "Fall 2012"
+  },
+  {
+    "endDate" : 1336608000000,
+    "startDate" : 1327449600000,
+    "termCode" : "201201",
+    "termId" : "kuali.atp.2012Spring",
+    "termName" : "Spring 2012"
+  },
+  {
+    "endDate" : 1341705600000,
+    "startDate" : 1338249600000,
+    "termCode" : "201205",
+    "termId" : "kuali.atp.2012Summer1",
+    "termName" : "Summer I 2012"
+  },
+  {
+    "endDate" : 1327276800000,
+    "startDate" : 1325548800000,
+    "termCode" : "201200",
+    "termId" : "kuali.atp.2012Winter",
+    "termName" : "Winter 2012"
+  },
+  {
+    "endDate" : 1399939200000,
+    "startDate" : 1390780800000,
+    "termCode" : "201401",
+    "termId" : "kuali.atp.2014Spring",
+    "termName" : "Spring 2014"
+  },
+  {
+    "endDate" : 1405036800000,
+    "startDate" : 1401667200000,
+    "termCode" : "201405",
+    "termId" : "kuali.atp.2014Summer1",
+    "termName" : "Summer I 2014"
+  },
+  {
+    "endDate" : 1390348800000,
+    "startDate" : 1388620800000,
+    "termCode" : "201400",
+    "termId" : "kuali.atp.2014Winter",
+    "termName" : "Winter 2014"
+  },
+  {
+    "endDate" : 1421971200000,
+    "startDate" : 1420416000000,
+    "termCode" : "201500",
+    "termId" : "kuali.atp.2015Winter",
+    "termName" : "Winter 2015"
+  },
+  {
+    "endDate" : 1453420800000,
+    "startDate" : 1451865600000,
+    "termCode" : "201600",
+    "termId" : "kuali.atp.2016Winter",
+    "termName" : "Winter 2016"
+  },
+  {
+    "endDate" : 1531008000000,
+    "startDate" : 1527724800000,
+    "termCode" : "201805",
+    "termId" : "kuali.atp.2018Summer1",
+    "termName" : "Summer I 2018"
+  }
+]
