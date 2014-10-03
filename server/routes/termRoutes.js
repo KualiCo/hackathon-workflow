@@ -4,7 +4,7 @@
 var TermModel = require('../model/termModel');
 
 module.exports = function (app) {
-    app.get('/terms', function*() {
+    app.get('/termsService', function*() {
         this.body = yield TermModel.findAll();
     });
 };

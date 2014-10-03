@@ -28,7 +28,7 @@ var HelloWorld = React.createClass({
     var terms = this.state.terms;
     return (
       <div>
-        <TermsList terms={terms}/>
+          Terms: <TermsList terms={terms}/>
       </div>
     );
   }
@@ -37,15 +37,16 @@ var HelloWorld = React.createClass({
 
 var TermsList = React.createClass({
   render: function(){
-    var terms = (this.props.terms || []).map(function(termName){
+    var terms = (this.props.terms || []).map(function(term){
       return (
-        <li>{termName}</li>
+
+        <option value="{term.termId}">{term.termName}</option>
       )
     });
     return (
-      <ul>
+      <select>
         {terms}
-      </ul>
+      </select>
     )
   }
 })
