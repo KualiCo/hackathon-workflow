@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "react": "^0.11.2",
+    "jquery": "^2.1.1",
     "koa": "^0.12.2",
     "koa-body": "^0.3.0",
     "koa-static": "^1.4.7",
